@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "さよならbyebye",
+  "base_artist": "馬渡松子",
+  "createdAt": "2025-12-01T16:33:26.109113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならbyebye",
+      "artist": "折笠愛",
+      "has_synced": false,
+      "path": "select/01_さよならbyebye_折笠愛.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならbyebye - Sayonara Byebye",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/02_さよならbyebye_-_Sayonara_Byebye_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "04 さよならbyebye",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/03_04_さよならbyebye_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよならbyebye",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/04_さよならbyebye_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよならbyebye",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/05_さよならbyebye_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "04 - Matsuko Mawatari - さよならbyebye",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/06_04_-_Matsuko_Mawatari_-_さよならbyebye_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよならbyebye (主題歌カバーコレクション)",
+      "artist": "折笠愛",
+      "has_synced": true,
+      "path": "select/07_さよならbyebye_(主題歌カバーコレクション)_折笠愛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならbyebye",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_01_さよならbyebye_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さよならBye Bye",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_02_さよならBye_Bye_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "さよならbyebye",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_03_さよならbyebye_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "さよならbyebye",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_04_さよならbyebye_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "さよならbyebye",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_05_さよならbyebye_馬渡_松子.txt"
+    }
+  ]
+}
