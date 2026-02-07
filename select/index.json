@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "さよならbyebye",
   "base_artist": "馬渡松子",
-  "createdAt": "2025-12-01T16:33:26.109113Z",
+  "createdAt": "2026-02-07T08:38:58.156909Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,38 +67,6 @@
       "artist": "馬渡 松子",
       "has_synced": false,
       "path": "select/pl_01_さよならbyebye_馬渡_松子.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "さよならBye Bye",
-      "artist": "馬渡 松子",
-      "has_synced": false,
-      "path": "select/pl_02_さよならBye_Bye_馬渡_松子.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "さよならbyebye",
-      "artist": "馬渡 松子",
-      "has_synced": false,
-      "path": "select/pl_03_さよならbyebye_馬渡_松子.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "さよならbyebye",
-      "artist": "馬渡 松子",
-      "has_synced": false,
-      "path": "select/pl_04_さよならbyebye_馬渡_松子.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "さよならbyebye",
-      "artist": "馬渡 松子",
-      "has_synced": false,
-      "path": "select/pl_05_さよならbyebye_馬渡_松子.txt"
     }
   ]
 }
